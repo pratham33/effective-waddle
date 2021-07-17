@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  border-style: groove;
+  border-width: 7px;
+  border-color: coral;
+}
+
+div {
+  border-style: groove;
+  border-width: 7px;
+  border-color: coral;  
+}
+</style>
+</head>
+<body>
+
+<h1>A Heading with a groove border</h1>
+
+<div>A div element with a groove border.</div>
+
+</body>
+</html>
